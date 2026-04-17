@@ -29,32 +29,10 @@ My focus is not features — it's **systems that ship and scale**.
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,docker,aws,git" />
 </p>
 
----
-
-## 🌌 “3D Presence” Section
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=tokyonight&show_icons=true&hide_border=true" />
-
-</div>
-
----
-
 ## 📡 Contact
 
-- GitHub: https://github.com/your-username  
-- Email: your@email.com  
+- GitHub: https://github.com/luana778
+- Email: w******@email.com  
 
 ---
 
