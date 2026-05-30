@@ -38,37 +38,7 @@ animation: float 4s ease-in-out infinite;
 
 <!-- ===================== ANIMATIONS ===================== -->
 
-<style>
 
-@keyframes float {
-  0% { transform: perspective(800px) translateY(0px) rotateX(10deg); }
-  50% { transform: perspective(800px) translateY(-10px) rotateX(12deg); }
-  100% { transform: perspective(800px) translateY(0px) rotateX(10deg); }
-}
-
-@keyframes glow {
-  0% { filter: hue-rotate(0deg); }
-  100% { filter: hue-rotate(360deg); }
-}
-
-.card {
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-  transform-style: preserve-3d;
-}
-
-.card:hover {
-  transform: perspective(1000px) rotateX(8deg) rotateY(-8deg) scale(1.02);
-  box-shadow: 0 25px 60px rgba(0,0,0,0.5);
-}
-
-.section-title {
-  font-size: 1.3rem;
-  font-weight: bold;
-  margin-top: 30px;
-  opacity: 0.9;
-}
-
-</style>
 
 ---
 
